@@ -15,6 +15,12 @@ ScholarConnect is a minimal, elegant frontend web app that helps students make i
 
 ---
 
+## 🔗 Live Demo
+
+Check it out here: [ScholarConnect Website](https://scholar-connect-prachimehetres-projects.vercel.app/)
+
+---
+
 ## 🛠️ Tech Stack
 
 - **Frontend:** React.js (with Vite)
