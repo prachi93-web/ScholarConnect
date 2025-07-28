@@ -1,12 +1,34 @@
-# React + Vite
+# 🎓 ScholarConnect
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ScholarConnect is a minimal, elegant frontend web app that helps students make informed decisions while planning to study abroad. From finding the right scholarship to comparing study costs between countries, ScholarConnect makes the process simple and insightful.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌟 Features
 
-## Expanding the ESLint configuration
+- 🎯 **Smart Scholarship Finder** – Discover scholarships based on your **stream**, **type**, and **level of education**.
+- 🔍 **Trending Courses** – Explore in-demand study programs with country insights.
+- 💰 **Cost Comparison** – Compare the cost of studying between two countries.
+- 📈 **Graph-Based Visuals** – Visualize cost data through interactive charts.
+- ✅ **Minimalist UI** – Clean and modern design for seamless user experience.
+- 📚 **Student Resources** – Tips for budget planning, essay writing, and more.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js (with Vite)
+- **Styling:** Tailwind CSS
+- **Charting Library:** Recharts
+- **Icons:** Lucide Icons
+- **Version Control:** Git & GitHub
+
+---
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/prachi93-web/ScholarConnect.git
+cd ScholarConnect
+npm install
+npm run dev
